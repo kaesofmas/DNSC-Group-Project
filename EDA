@@ -5,5 +5,11 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-dc = pd.read_csv("")
-ny = pd.read_csv("")
+dc_ride = pd.read_csv("") #this contains holiday column
+ny_ride = pd.read_csv("")
+
+dc_weather = pd.read_csv("")
+ny_weather23= pd.read_csv("") 
+ny_weather24 = pd.read_csv("")
+
+ny_weather = #merge 2023/24 data
